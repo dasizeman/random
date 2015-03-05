@@ -1,4 +1,4 @@
-__author__ = 'e305698'
+__author__ = 'Dave Sizer <dasizer@gmail.com>'
 
 while 1==1:
     try:
